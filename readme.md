@@ -33,5 +33,18 @@ utilizar, lo que lo convierte en una excelente opción para desarrollar aplicaci
 - Utilizar Postman para realizar las peticiones a la API
 - Disfrutar de la APIREST con Express y NodeJS
 
+## Imagenes:
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
+![img_4.png](img_4.png)
+
+
 ## Autor
 - Jonathan Narvaez
